@@ -23,6 +23,7 @@ build/
 *.bridgesupport
 build-iPhoneOS/
 build-iPhoneSimulator/
+.jekyll-cache/
 
 ## Specific to RubyMotion (use of CocoaPods):
 #

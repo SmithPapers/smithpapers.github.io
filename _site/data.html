@@ -300,7 +300,7 @@ Alternatively, click the “Download” button at the top right to view the full
             // turn relative link into absolute
             { "render": function ( data ) { return 'http://localhost:4000' + data; },"targets": 4 },
             // combine link with first column
-            { "render": function ( data, type, row ) { return '<a href="' + row['4'] +'">'+ data +'</a>'; },"targets": 0 },
+            { "render": function ( data, type, row ) { return '<a href="' + row['http://localhost:4000'] +'">'+ data +'</a>'; },"targets": 0 },
             // hide the link column
             { "visible": false,  "targets": [ 4 ] }
         ],
