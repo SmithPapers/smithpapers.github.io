@@ -30,7 +30,7 @@
 
 
 
-<!-- Last build date: 2022-01-19 -->
+<!-- Last build date: 2022-01-26 -->
   </head>
   <body class="d-flex flex-column h-100">
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -200,6 +200,8 @@ Alternatively, click the “Download” button at the top right to view the full
                 
                 <th scope="col">Subjects</th>
                 
+                <th scope="col">calc_url</th>
+                
                 <th>Link</th>
             </tr>
         </thead>
@@ -295,13 +297,15 @@ Alternatively, click the “Download” button at the top right to view the full
         dom: 'B<"row mt-2"<"col-md-6"l><"col-md-6"f>>t<"row"<"col-md-6"i><"col-md-6"p>>', 
         buttons: [ 'excelHtml5', 'csvHtml5' ],
         // set up the columns from the json
-        columns: [ { data: '0' },{ data: '1' },{ data: '2' },{ data: '3' },{ data: '4' } ],
+        columns: [ { data: '0' },{ data: '1' },{ data: '2' },{ data: '3' },{ data: '4' },{ data: '5' } ],
         columnDefs: [ 
             // turn relative link into absolute
-            { "render": function ( data ) { return 'http://localhost:4000' + data; },"targets": 4 },
+            { "render": function ( data ) { return 'http://localhost:4000' + data; },"targets": 5 },
             // combine link with first column
-            { "render": function ( data, type, row ) { return '<a href="' + row['http://localhost:4000'] +'">'+ data +'</a>'; },"targets": 0 },
+            // hard coding in calc_url (column 4) as url, this link will break if column changes place
+            { "render": function ( data, type, row ) { return '<a href="' + row[4] +'">'+ data +'</a>'; },"targets": 0 },
             // hide the link column
+            { "visible": false,  "targets": [ 5 ] },
             { "visible": false,  "targets": [ 4 ] }
         ],
         // sort based on the second column

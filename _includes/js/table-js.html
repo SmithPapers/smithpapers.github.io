@@ -20,9 +20,11 @@
             // turn relative link into absolute
             { "render": function ( data ) { return '{{ site.url }}' + data; },"targets": {{ fcount }} },
             // combine link with first column
-            { "render": function ( data, type, row ) { return '<a href="' + row['{{ site.url }}'] +'">'+ data +'</a>'; },"targets": 0 },
+            // hard coding in calc_url (column 4) as url, this link will break if column changes place
+            { "render": function ( data, type, row ) { return '<a href="' + row[4] +'">'+ data +'</a>'; },"targets": 0 },
             // hide the link column
-            { "visible": false,  "targets": [ {{ fcount }} ] }
+            { "visible": false,  "targets": [ {{ fcount }} ] },
+            { "visible": false,  "targets": [ 4 ] }
         ],
         // sort based on the second column
         order: [[ 1, "asc" ]]
