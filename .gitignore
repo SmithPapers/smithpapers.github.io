@@ -24,6 +24,8 @@ build/
 build-iPhoneOS/
 build-iPhoneSimulator/
 .jekyll-cache/
+.jekyll-cache/Jekyll/Cache/
+.jekyll-cache/Jekyll/
 
 ## Specific to RubyMotion (use of CocoaPods):
 #

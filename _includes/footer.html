@@ -2,7 +2,7 @@
 
     <div class="row align-items-center border-bottom border-white pb-4 mb-2">
 
-        <div class="col-md-6 mt-2">            
+        <div class="col-md-7 mt-2">            
             <nav>
                 <ul class="nav nav-pills">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
@@ -21,7 +21,7 @@
 
         </div>
 
-        <div class="col-md-6 mt-2 text-right">
+        <div class="col-md-5 mt-2 text-right">
             <p class="text-white" id="footer-credits">
                     <a href="https://deepsouthdh.github.io/" target="_blank" rel="noopener" title="DeepSouthLogo">
                         <img src="{{ '/assets/img/DeepSouthlogo.png' | relative_url }}" class="img-fluid" alt="DeepSouthLogo logo" >

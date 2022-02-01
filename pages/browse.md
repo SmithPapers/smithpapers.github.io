@@ -7,6 +7,3 @@ permalink: /browse.html
 ---
 
 ## Browse Items
-
-
-{% include feature/timelinejs.html  %}
