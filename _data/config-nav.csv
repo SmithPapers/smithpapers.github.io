@@ -1,9 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
 Browse,/data.html
+Subjects,/subjects.html
+Locations,
+Locations,/locations.html,Locations
+Map,/map.html,Locations
 Timelines,,
 Full Timeline,/timeline.html,Timelines
 TimelineJS,/timelinejs.html,Timelines
