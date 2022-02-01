@@ -2,3 +2,11 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+#footer-credits {
+    img[alt="CollectionBuilder logo"] {
+        height: 40px;
+        width: 40px;
+    }
+    img { height: 20%;
+         width: 20% }
+}
