@@ -13,1311 +13,1420 @@
     "events": [
       {
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1005/thumbnail.jpg",
           "caption": "Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/6",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1929"
         },
         "text": {
-          "headline": "Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929."
+          "headline": "Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1010/thumbnail.jpg",
           "caption": "Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/11",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1930"
         },
         "text": {
-          "headline": "Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930."
+          "headline": "Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1011/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith; March 31, 1931.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/12",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1931"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith; March 31, 1931."
+          "headline": "Letter from Sam H. Smith; March 31, 1931.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Sam H. Smith; March 31, 1931"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1012/thumbnail.jpg",
           "caption": "Letter from J.R. Fewell to Sam H. Smith; April 25, 1931.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/13",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1931"
         },
         "text": {
-          "headline": "Letter from J.R. Fewell to Sam H. Smith; April 25, 1931."
+          "headline": "Letter from J.R. Fewell to Sam H. Smith; April 25, 1931.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from J.R. Fewell to Sam H. Smith; April 25, 1931."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1013/thumbnail.jpg",
           "caption": "Letter from Thomas E. Pegram to Sam H. Smith; August 28th, 1931",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/14",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1931"
         },
         "text": {
-          "headline": "Letter from Thomas E. Pegram to Sam H. Smith; August 28th, 1931"
+          "headline": "Letter from Thomas E. Pegram to Sam H. Smith; August 28th, 1931",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from President of Bank of Ripley To Sam Smith; August 28, 1931"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1014/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Bernice Smith; January 19, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/15",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Bernice Smith; January 19, 1932"
+          "headline": "Letter from Sam H. Smith to Bernice Smith; January 19, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Sam H. Smith to Bernice Smith; January 19, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1015/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; January 21, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/16",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; January 21, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; January 21, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith;  January 21, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1016/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; February 3, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/17",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; February 3, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; February 3, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; February 3, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1017/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; February 20,1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/18",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; February 20,1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; February 20,1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith February 20, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1018/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; February 29, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/19",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; February 29, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; February 29, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; February 29, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1019/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; March 4, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/20",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; March 4, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; March 4, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; March 4, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1020/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; March 22, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/21",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; March 22, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; March 22, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1021/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; March 28, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/22",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; March 28, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; March 28, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1022/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; April 13, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/23",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; April 13, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; April 13, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1023/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; April 27, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/24",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; April 27, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; April 27, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1024/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; May 2, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/25",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; May 2, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; May 2, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1025/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; May 7, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/26",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; May 7, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; May 7, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1026/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Clarion Ledger; May 7, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/27",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Clarion Ledger; May 7, 1932"
+          "headline": "Letter from Sam H. Smith to Clarion Ledger; May 7, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; copy of a faxed letter to the Clarion Ledger Newspaper May 7, 1932"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1027/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; May 12, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/28",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; May 12, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; May 12, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1028/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; May 15, 1932",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/29",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1932"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; May 15, 1932"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; May 15, 1932",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1029/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; January 30, 1934",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/30",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1934"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; January 30, 1934"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; January 30, 1934",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1030/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; February 19, 1934",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/31",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1934"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; February 19, 1934"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; February 19, 1934",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1031/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; February 23, 1934",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/32",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1934"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; February 23, 1934"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; February 23, 1934",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1032/thumbnail.jpg",
           "caption": "Letter from Bernard E. McMahon to Christine Smith; November 13, 1934",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/33",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1934"
         },
         "text": {
-          "headline": "Letter from Bernard E. McMahon to Christine Smith; November 13, 1934"
+          "headline": "Letter from Bernard E. McMahon to Christine Smith; November 13, 1934",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1033/thumbnail.jpg",
           "caption": "Letter from Bernard E. McMahon to Christine Smith; January 14, 1935",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/34",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1935"
         },
         "text": {
-          "headline": "Letter from Bernard E. McMahon to Christine Smith; January 14, 1935"
+          "headline": "Letter from Bernard E. McMahon to Christine Smith; January 14, 1935",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1034/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Theodore Bilbo; July 5, 1935",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/35",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1935"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Theodore Bilbo; July 5, 1935"
+          "headline": "Letter from Sam H. Smith to Theodore Bilbo; July 5, 1935",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter to Senator Bilbo, Theodore Gilmore, 1877-1947 from Sam H. Smith; July 5, 1935"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1035/thumbnail.jpg",
           "caption": "Letter from Theodore Bilbo to Sam H. Smith; July 13, 1935",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/36",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1935"
         },
         "text": {
-          "headline": "Letter from Theodore Bilbo to Sam H. Smith; July 13, 1935"
+          "headline": "Letter from Theodore Bilbo to Sam H. Smith; July 13, 1935",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1036/thumbnail.jpg",
           "caption": "Letter from Sam E. Smith to Pauline Smith; November 2, 1935",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/37",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1935"
         },
         "text": {
-          "headline": "Letter from Sam E. Smith to Pauline Smith; November 2, 1935"
+          "headline": "Letter from Sam E. Smith to Pauline Smith; November 2, 1935",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1037/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; 1935",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/38",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1935"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; 1935"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; 1935",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1038/thumbnail.jpg",
           "caption": "Letter from George R. Nobles to Hugh L. White; April 10, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/39",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from George R. Nobles to Hugh L. White; April 10, 1936"
+          "headline": "Letter from George R. Nobles to Hugh L. White; April 10, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1039/thumbnail.jpg",
           "caption": "Letter from Garland Lyell to Hugh L. White; April 10, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/40",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Garland Lyell to Hugh L. White; April 10, 1936"
+          "headline": "Letter from Garland Lyell to Hugh L. White; April 10, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1040/thumbnail.jpg",
           "caption": "Letter from John H. Culkin to Hugh L. White; April 11, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/41",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from John H. Culkin to Hugh L. White; April 11, 1936"
+          "headline": "Letter from John H. Culkin to Hugh L. White; April 11, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1041/thumbnail.jpg",
           "caption": "Letter from John H. Culkin to Howard Dyer; April 21, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/42",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from John H. Culkin to Howard Dyer; April 21, 1936"
+          "headline": "Letter from John H. Culkin to Howard Dyer; April 21, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1042/thumbnail.jpg",
           "caption": "Letter from Theodore G. Bilbo to Dennis Murphree; June 10, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/43",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Theodore G. Bilbo to Dennis Murphree; June 10, 1936"
+          "headline": "Letter from Theodore G. Bilbo to Dennis Murphree; June 10, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1043/thumbnail.jpg",
           "caption": "Letter from Dennis Murphree to John L. Taylor; August 11, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/44",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Dennis Murphree to John L. Taylor; August 11, 1936"
+          "headline": "Letter from Dennis Murphree to John L. Taylor; August 11, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1044/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith and Martha Smith; September 28, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/45",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith and Martha Smith; September 28, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith and Martha Smith; September 28, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1045/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith and Martha Smith; October 5, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/46",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith and Martha Smith; October 5, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith and Martha Smith; October 5, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1046/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; October 9, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/47",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 9, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 9, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1047/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; October 12, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/48",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 12, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 12, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1048/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Martha Smith; October 19, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/49",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Martha Smith; October 19, 1936"
+          "headline": "Letter from Pauline Smith to Martha Smith; October 19, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1049/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; October 26, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/50",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 26, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 26, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1050/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Martha Smith; November 2, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/51",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Martha Smith; November 2, 1936"
+          "headline": "Letter from Pauline Smith to Martha Smith; November 2, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1051/thumbnail.jpg",
           "caption": "Postcard from Sam Smith to Pauline Smith; November 14, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/52",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Postcard from Sam Smith to Pauline Smith; November 14, 1936"
+          "headline": "Postcard from Sam Smith to Pauline Smith; November 14, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1052/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; November 19, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/53",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; November 19, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith; November 19, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1053/thumbnail.jpg",
           "caption": "Letter from Office of the Registrar at Mississippi State College for Women to Pauline Smith; November 20, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/54",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Office of the Registrar at Mississippi State College for Women to Pauline Smith; November 20, 1936"
+          "headline": "Letter from Office of the Registrar at Mississippi State College for Women to Pauline Smith; November 20, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1054/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; December 7, 1936",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/55",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1936"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; December 7, 1936"
+          "headline": "Letter from Pauline Smith to Christine Smith; December 7, 1936",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1055/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Pauline Smith; January 19, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/56",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Pauline Smith; January 19, 1937"
+          "headline": "Letter from Sam H. Smith to Pauline Smith; January 19, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Sam tells Pauline how much he misses her and about his upcoming travels, and makes plans for Bernice to meet a relative in Tupelo."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1057/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine and Martha Smith; January 18, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/58",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine and Martha Smith; January 18, 1937"
+          "headline": "Letter from Pauline Smith to Christine and Martha Smith; January 18, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Mrs. S. H. Smith to Misses Christine and Martha Smith; January 18, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1058/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; January 22, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/59",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 22, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; January 22, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Mrs. S. H. Smith to Miss Christine Smith; January 22, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1059/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine and Martha Smith; January 25, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/60",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine and Martha Smith; January 25, 1937"
+          "headline": "Letter from Pauline Smith to Christine and Martha Smith; January 25, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Mrs. S. H. Smith to Misses Christine and Martha Smith; January 25, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1060/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Martha Smith; February 1, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/61",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Martha Smith; February 1, 1937"
+          "headline": "Letter from Pauline Smith to Martha Smith; February 1, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Martha Smith; February 1, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1061/thumbnail.jpg",
           "caption": "Letter from Wade Horn to Christine Smith; February 8, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/62",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Wade Horn to Christine Smith; February 8, 1937"
+          "headline": "Letter from Wade Horn to Christine Smith; February 8, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Wade to Christine Smith; February 8, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1062/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Martha Smith; February 8, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/63",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Martha Smith; February 8, 1937"
+          "headline": "Letter from Pauline Smith to Martha Smith; February 8, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Martha Smith; February 8, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1063/thumbnail.jpg",
           "caption": "Envelope from Wade Horn to Christine Smith; February 17, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/64",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Envelope from Wade Horn to Christine Smith; February 17, 1937"
+          "headline": "Envelope from Wade Horn to Christine Smith; February 17, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Wade Horn to Christine Smith; February 17, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1064/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; March 6, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/65",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; March 6, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; March 6, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; March 6, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1065/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/66",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937"
+          "headline": "Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1066/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; March 24, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/67",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; March 24, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; March 24, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; March 24, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1068/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Christine Smith; August 19, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/69",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Christine Smith; August 19, 1937"
+          "headline": "Letter from Martha Smith to Christine Smith; August 19, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Martha Smith to Christine Smith; August 19, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1069/thumbnail.jpg",
           "caption": "Letter from Sam H. Smith to Christine Smith; August 20, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/70",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Sam H. Smith to Christine Smith; August 20, 1937"
+          "headline": "Letter from Sam H. Smith to Christine Smith; August 20, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Sam tells Christine he had planned to visit, and will send her money."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1070/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; August 23, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/71",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; August 23, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; August 23, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; August 23, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1071/thumbnail.jpg",
           "caption": "Letter from Bernice Smith to Christine Smith; August 24, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/72",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Bernice Smith to Christine Smith; August 24, 1937"
+          "headline": "Letter from Bernice Smith to Christine Smith; August 24, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Bernice Smith to Christine Smith; August 24, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1072/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; August 30,1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/73",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; August 30,1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; August 30,1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; August 30,1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1073/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 06, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/74",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; September 06, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; September 06, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 06, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1074/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Christine Smith; September 13, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/75",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Christine Smith; September 13, 1937"
+          "headline": "Letter from Martha Smith to Christine Smith; September 13, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Christine Smith; September 13, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1075/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 13, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/76",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; September 13, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; September 13, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 13, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1076/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 21, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/77",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; September 21, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; September 21, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 21, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1077/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Christine Smith; September 25, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/78",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Christine Smith; September 25, 1937"
+          "headline": "Letter from Martha Smith to Christine Smith; September 25, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Christine Smith; September 25, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1078/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 27, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/79",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; September 27, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; September 27, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 27, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1079/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; October 11, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/80",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 11, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 11, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; October 11, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1080/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; October 18, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/81",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; October 18, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1081/thumbnail.jpg",
           "caption": "Letter from Wade Horn to Christine Smith; November 2,1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/82",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Wade Horn to Christine Smith; November 2,1937"
+          "headline": "Letter from Wade Horn to Christine Smith; November 2,1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Wade Horn to Christine Smith; November 2, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1082/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; November 11, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/83",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; November 11, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; November 11, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; November 11, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1083/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; November 13, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/84",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; November 13, 1937"
+          "headline": "Letter from Pauline Smith to Christine Smith; November 13, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; November 13, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1084/thumbnail.jpg",
           "caption": "Letter from Wade Horn to Christine Smith; November 17, 1937",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/85",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1937"
         },
         "text": {
-          "headline": "Letter from Wade Horn to Christine Smith; November 17, 1937"
+          "headline": "Letter from Wade Horn to Christine Smith; November 17, 1937",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Wade Horn to Christine Smith; November 17, 1937"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1111/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Christine Smith; October 10, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/112",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Christine Smith; October 10, 1938"
+          "headline": "Letter from Martha Smith to Christine Smith; October 10, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christine updates about different family members."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1112/thumbnail.jpg",
           "caption": "Letter from Bernice Smith to Christine Smith; October 11, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/113",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Bernice Smith to Christine Smith; October 11, 1938"
+          "headline": "Letter from Bernice Smith to Christine Smith; October 11, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Bernice Smith to Christine Smith; October 11, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1114/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; November 01, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/115",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; November 01, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; November 01, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline to Christine , and Pauline also forward Martha's letter to Christine"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1118/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Pauline Smith; 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/119",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1905"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Pauline Smith; 1938"
+          "headline": "Letter from Martha Smith to Pauline Smith; 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Pauline Smith recounting her school work at MSCW; 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1120/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; January 17, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/121",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 17, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; January 17, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; January 17, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1121/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; January 19, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/122",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 19, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; January 19, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; January 19, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1122/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; January 24, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/123",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 24, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; January 24, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; January 24, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1123/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Christine Smith; January 25, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/124",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Christine Smith; January 25, 1938"
+          "headline": "Letter from Martha Smith to Christine Smith; January 25, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Christine Smith; January 25, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1125/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; February 14, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/126",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; February 14, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; February 14, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; February 14, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1127/thumbnail.jpg",
           "caption": "Letter from Bernice Smith to Christine Smith; July 15, 1938.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/128",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Bernice Smith to Christine Smith; July 15, 1938."
+          "headline": "Letter from Bernice Smith to Christine Smith; July 15, 1938.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Bernice Smith to Christine Smith; July 15, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1128/thumbnail.jpg",
           "caption": "Letter from Sam Smith to Christine Smith; July 17, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/129",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Sam Smith to Christine Smith; July 17, 1938"
+          "headline": "Letter from Sam Smith to Christine Smith; July 17, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Sam Smith to Christine Smith; July 17, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1129/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; July 18, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/130",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; July 18, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; July 18, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; July 18, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1130/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; July 22, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/131",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; July 22, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; July 22, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; July 22, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1131/thumbnail.jpg",
           "caption": "Letter from Sam Ellard Smith to Christine Smith; July 22, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/132",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Sam Ellard Smith to Christine Smith; July 22, 1938"
+          "headline": "Letter from Sam Ellard Smith to Christine Smith; July 22, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Sonny Boy to Christine Smith; July 22, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1133/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; August 9, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/134",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; August 9, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; August 9, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; August 9, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1134/thumbnail.jpg",
           "caption": "Letter from Christine Smith to Pauline Smith; August 12, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/135",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Christine Smith to Pauline Smith; August 12, 1938"
+          "headline": "Letter from Christine Smith to Pauline Smith; August 12, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Christine Smith to Pauline Smith; August 12, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1135/thumbnail.jpg",
           "caption": "Letter from Christine Smith to Pauline Smith; August 15, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/136",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Christine Smith to Pauline Smith; August 15, 1938"
+          "headline": "Letter from Christine Smith to Pauline Smith; August 15, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers CollectionLetter from Christine Smith to Pauline Smith; August 15, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1136/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; July 29, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/137",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; July 29, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; July 29, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; July 29, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1137/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 12, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/138",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; September 12, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; September 12, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christine updates about different family members."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1138/thumbnail.jpg",
           "caption": "Letter from Martha Smith to Christine Smith; September 15, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/139",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Martha Smith to Christine Smith; September 15, 1938"
+          "headline": "Letter from Martha Smith to Christine Smith; September 15, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Envelope from Martha Smith to Christine Smith."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1139/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 19, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/140",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; September 19, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; September 19, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christina what she has been up to and continues to update her on family and close friends."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Envelope from Pauline Smith to Christine Smith; January 10, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letter from Goldie to Christine Smith; January 26, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Goldie to Christine Smith; January 26, 1938"
+          "headline": "Letter from Goldie to Christine Smith; January 26, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Goldie to Christine Smith; January 26, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; February 19, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Mother (Pauline) inquires how Christine is doing and gives updates on Martha specifcally. She also talks about job opportunites for Christine."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letters from Pauline Smith to Christine Smith Novemeber 10, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letters from Pauline Smith to Christine Smith Novemeber 10, 1938"
+          "headline": "Letters from Pauline Smith to Christine Smith Novemeber 10, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline expresses her excitement for Christine's new opportunities. She also continues to update on friends and familly matters regarding Dad's health and about Martha."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; December 5, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "",
           "caption": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": null,
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938."
+          "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.  Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1147/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/148",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Envelope from Pauline Smith to Christine Smith; January 10, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1148/thumbnail.jpg",
           "caption": "Letter from Goldie to Christine Smith; January 26, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/149",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Goldie to Christine Smith; January 26, 1938"
+          "headline": "Letter from Goldie to Christine Smith; January 26, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Goldie to Christine Smith; January 26, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1149/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/150",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; February 19, 1938."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1150/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/151",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Mother (Pauline) inquires how Christine is doing and gives updates on Martha specifcally. She also talks about job opportunites for Christine."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1151/thumbnail.jpg",
           "caption": "Letters from Pauline Smith to Christine Smith November 10, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/152",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letters from Pauline Smith to Christine Smith November 10, 1938"
+          "headline": "Letters from Pauline Smith to Christine Smith November 10, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline expresses her excitement for Christine's new opportunities. She also continues to update on friends and familly matters regarding Dad's health and about Martha."
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1152/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/153",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938"
+          "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; December 5, 1938"
         }
       },{
         "media": {
-          "url": "http://localhost:4000/objects/",
+          "url": "https://athenacommons.muw.edu/smithpapers/1153/thumbnail.jpg",
           "caption": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-          "link": "http://localhost:4000/item.html?id=",
+          "link": "https://athenacommons.muw.edu/smithpapers/154",
           "credit": "The Smith Papers Collection"
         },
         "start_date": { "year": "1938"
         },
         "text": {
-          "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938."
+          "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.  Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
         }
       }
     ]
