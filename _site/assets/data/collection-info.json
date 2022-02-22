@@ -1,7 +1,7 @@
 { 
     "title": "The Smith Papers Collection",
     "url": "http://localhost:4000/",
-    "image": "/objects/test.png", 
+    "image": "/assets/img/test.png", 
     "description": "The Smith Family Papers is...",
     "publisher": { 
         "name": "MUW Digital Studies"
@@ -13,6 +13,6 @@
         
     },
     "data": "http://localhost:4000/assets/data/datapackage.json",
-    "last_build_date": "2022-02-08"
+    "last_build_date": "2022-02-22"
 }
 

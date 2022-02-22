@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "/objects/test.png",
+          "url": "/assets/img/test.png",
           "caption": null,
           "credit": "The Smith Papers Collection"
         },
@@ -18,7 +18,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/6",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1929"
+        "start_date": { 
+          "month": "12",
+          "day": "11",
+          "year": "1929"
         },
         "text": {
           "headline": "Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929.",
@@ -31,7 +34,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/11",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1930"
+        "start_date": { 
+          "month": "04",
+          "day": "03",
+          "year": "1930"
         },
         "text": {
           "headline": "Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930.",
@@ -39,12 +45,15 @@
         }
       },{
         "media": {
-          "url": "https://athenacommons.muw.edu/smithpapers/1011/thumbnail.jpg",
+          "url": "https://github.com/SmithPapers/smithpapers.github.io/blob/main/assets/img/Letter%20from%20Sam%20H.%20Smith;%20March%2031%201931.png?raw=true",
           "caption": "Letter from Sam H. Smith; March 31, 1931.",
           "link": "https://athenacommons.muw.edu/smithpapers/12",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1931"
+        "start_date": { 
+          "month": "03",
+          "day": "31",
+          "year": "1931"
         },
         "text": {
           "headline": "Letter from Sam H. Smith; March 31, 1931.",
@@ -57,7 +66,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/13",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1931"
+        "start_date": { 
+          "month": "04",
+          "day": "25",
+          "year": "1931"
         },
         "text": {
           "headline": "Letter from J.R. Fewell to Sam H. Smith; April 25, 1931.",
@@ -70,7 +82,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/14",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1931"
+        "start_date": { 
+          "month": "08",
+          "day": "28",
+          "year": "1931"
         },
         "text": {
           "headline": "Letter from Thomas E. Pegram to Sam H. Smith; August 28th, 1931",
@@ -83,7 +98,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/15",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "01",
+          "day": "19",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Bernice Smith; January 19, 1932",
@@ -96,11 +114,14 @@
           "link": "https://athenacommons.muw.edu/smithpapers/16",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "01",
+          "day": "21",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; January 21, 1932",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith;  January 21, 1932"
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; January 21, 1932"
         }
       },{
         "media": {
@@ -109,7 +130,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/17",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "02",
+          "day": "03",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; February 3, 1932",
@@ -122,7 +146,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/18",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "02",
+          "day": "20",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; February 20,1932",
@@ -135,7 +162,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/19",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "02",
+          "day": "29",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; February 29, 1932",
@@ -148,7 +178,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/20",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "03",
+          "day": "04",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; March 4, 1932",
@@ -161,7 +194,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/21",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "03",
+          "day": "22",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; March 22, 1932",
@@ -174,7 +210,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/22",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "03",
+          "day": "28",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; March 28, 1932",
@@ -187,7 +226,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/23",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "04",
+          "day": "13",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; April 13, 1932",
@@ -200,7 +242,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/24",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "04",
+          "day": "27",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; April 27, 1932",
@@ -213,7 +258,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/25",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "05",
+          "day": "02",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; May 2, 1932",
@@ -226,7 +274,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/26",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "05",
+          "day": "07",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; May 7, 1932",
@@ -239,7 +290,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/27",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "05",
+          "day": "07",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Clarion Ledger; May 7, 1932",
@@ -252,7 +306,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/28",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "05",
+          "day": "12",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; May 12, 1932",
@@ -265,7 +322,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/29",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1932"
+        "start_date": { 
+          "month": "05",
+          "day": "15",
+          "year": "1932"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; May 15, 1932",
@@ -278,7 +338,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/30",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1934"
+        "start_date": { 
+          "month": "01",
+          "day": "30",
+          "year": "1934"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; January 30, 1934",
@@ -291,7 +354,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/31",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1934"
+        "start_date": { 
+          "month": "02",
+          "day": "19",
+          "year": "1934"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; February 19, 1934",
@@ -304,7 +370,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/32",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1934"
+        "start_date": { 
+          "month": "02",
+          "day": "28",
+          "year": "1934"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; February 23, 1934",
@@ -317,7 +386,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/33",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1934"
+        "start_date": { 
+          "month": "11",
+          "day": "13",
+          "year": "1934"
         },
         "text": {
           "headline": "Letter from Bernard E. McMahon to Christine Smith; November 13, 1934",
@@ -330,7 +402,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/34",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1935"
+        "start_date": { 
+          "month": "01",
+          "day": "14",
+          "year": "1935"
         },
         "text": {
           "headline": "Letter from Bernard E. McMahon to Christine Smith; January 14, 1935",
@@ -343,7 +418,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/35",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1935"
+        "start_date": { 
+          "month": "07",
+          "day": "05",
+          "year": "1935"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Theodore Bilbo; July 5, 1935",
@@ -356,7 +434,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/36",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1935"
+        "start_date": { 
+          "month": "07",
+          "day": "13",
+          "year": "1935"
         },
         "text": {
           "headline": "Letter from Theodore Bilbo to Sam H. Smith; July 13, 1935",
@@ -369,7 +450,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/37",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1935"
+        "start_date": { 
+          "month": "11",
+          "day": "02",
+          "year": "1935"
         },
         "text": {
           "headline": "Letter from Sam E. Smith to Pauline Smith; November 2, 1935",
@@ -382,7 +466,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/38",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1935"
+        "start_date": { 
+          "month": "01",
+          "day": "01",
+          "year": "1935"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; 1935",
@@ -395,7 +482,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/39",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "04",
+          "day": "10",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from George R. Nobles to Hugh L. White; April 10, 1936",
@@ -408,7 +498,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/40",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "04",
+          "day": "10",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Garland Lyell to Hugh L. White; April 10, 1936",
@@ -421,7 +514,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/41",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "04",
+          "day": "11",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from John H. Culkin to Hugh L. White; April 11, 1936",
@@ -434,7 +530,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/42",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "04",
+          "day": "21",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from John H. Culkin to Howard Dyer; April 21, 1936",
@@ -447,7 +546,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/43",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "06",
+          "day": "10",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Theodore G. Bilbo to Dennis Murphree; June 10, 1936",
@@ -460,7 +562,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/44",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "08",
+          "day": "11",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Dennis Murphree to John L. Taylor; August 11, 1936",
@@ -473,7 +578,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/45",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "09",
+          "day": "28",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith and Martha Smith; September 28, 1936",
@@ -486,7 +594,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/46",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "10",
+          "day": "05",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith and Martha Smith; October 5, 1936",
@@ -499,7 +610,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/47",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "10",
+          "day": "09",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 9, 1936",
@@ -512,7 +626,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/48",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "10",
+          "day": "12",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 12, 1936",
@@ -525,7 +642,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/49",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "10",
+          "day": "19",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Martha Smith; October 19, 1936",
@@ -538,7 +658,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/50",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "10",
+          "day": "26",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 26, 1936",
@@ -551,7 +674,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/51",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "11",
+          "day": "02",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Martha Smith; November 2, 1936",
@@ -564,7 +690,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/52",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "11",
+          "day": "14",
+          "year": "1936"
         },
         "text": {
           "headline": "Postcard from Sam Smith to Pauline Smith; November 14, 1936",
@@ -577,7 +706,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/53",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "11",
+          "day": "19",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; November 19, 1936",
@@ -590,7 +722,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/54",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "11",
+          "day": "20",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Office of the Registrar at Mississippi State College for Women to Pauline Smith; November 20, 1936",
@@ -603,7 +738,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/55",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1936"
+        "start_date": { 
+          "month": "12",
+          "day": "07",
+          "year": "1936"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; December 7, 1936",
@@ -616,7 +754,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/56",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "01",
+          "day": "19",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Pauline Smith; January 19, 1937",
@@ -629,7 +770,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/58",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "01",
+          "day": "18",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine and Martha Smith; January 18, 1937",
@@ -642,7 +786,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/59",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "01",
+          "day": "22",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; January 22, 1937",
@@ -655,7 +802,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/60",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "01",
+          "day": "25",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine and Martha Smith; January 25, 1937",
@@ -668,7 +818,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/61",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "02",
+          "day": "01",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Martha Smith; February 1, 1937",
@@ -681,7 +834,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/62",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "02",
+          "day": "08",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Wade Horn to Christine Smith; February 8, 1937",
@@ -694,7 +850,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/63",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "02",
+          "day": "08",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Martha Smith; February 8, 1937",
@@ -707,7 +866,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/64",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "02",
+          "day": "17",
+          "year": "1937"
         },
         "text": {
           "headline": "Envelope from Wade Horn to Christine Smith; February 17, 1937",
@@ -720,7 +882,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/65",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "03",
+          "day": "06",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; March 6, 1937",
@@ -733,7 +898,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/66",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "03",
+          "day": "22",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937",
@@ -746,7 +914,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/67",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "03",
+          "day": "24",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; March 24, 1937",
@@ -759,7 +930,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/69",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "08",
+          "day": "19",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Martha Smith to Christine Smith; August 19, 1937",
@@ -772,7 +946,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/70",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "08",
+          "day": "20",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Sam H. Smith to Christine Smith; August 20, 1937",
@@ -785,7 +962,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/71",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "08",
+          "day": "23",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; August 23, 1937",
@@ -798,7 +978,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/72",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "08",
+          "day": "24",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Bernice Smith to Christine Smith; August 24, 1937",
@@ -811,7 +994,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/73",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "08",
+          "day": "30",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; August 30,1937",
@@ -824,7 +1010,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/74",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "09",
+          "day": "06",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 06, 1937",
@@ -837,7 +1026,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/75",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "09",
+          "day": "13",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Martha Smith to Christine Smith; September 13, 1937",
@@ -850,7 +1042,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/76",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "09",
+          "day": "13",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 13, 1937",
@@ -863,7 +1058,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/77",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "09",
+          "day": "21",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 21, 1937",
@@ -876,7 +1074,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/78",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "09",
+          "day": "25",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Martha Smith to Christine Smith; September 25, 1937",
@@ -889,7 +1090,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/79",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "09",
+          "day": "27",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 27, 1937",
@@ -902,7 +1106,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/80",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "10",
+          "day": "11",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 11, 1937",
@@ -915,7 +1122,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/81",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "10",
+          "day": "18",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1937",
@@ -928,7 +1138,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/82",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "11",
+          "day": "02",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Wade Horn to Christine Smith; November 2,1937",
@@ -941,7 +1154,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/83",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "11",
+          "day": "11",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; November 11, 1937",
@@ -954,7 +1170,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/84",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "11",
+          "day": "13",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; November 13, 1937",
@@ -967,7 +1186,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/85",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1937"
+        "start_date": { 
+          "month": "11",
+          "day": "17",
+          "year": "1937"
         },
         "text": {
           "headline": "Letter from Wade Horn to Christine Smith; November 17, 1937",
@@ -980,7 +1202,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/112",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "10",
+          "day": "10",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Martha Smith to Christine Smith; October 10, 1938",
@@ -993,7 +1218,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/113",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "10",
+          "day": "11",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Bernice Smith to Christine Smith; October 11, 1938",
@@ -1006,7 +1234,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/115",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "11",
+          "day": "01",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; November 01, 1938",
@@ -1019,7 +1250,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/119",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1905"
+        "start_date": { 
+          "month": "04",
+          "day": "21",
+          "year": "1905"
         },
         "text": {
           "headline": "Letter from Martha Smith to Pauline Smith; 1938",
@@ -1032,7 +1266,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/121",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "17",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; January 17, 1938",
@@ -1045,7 +1282,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/122",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "19",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; January 19, 1938",
@@ -1058,7 +1298,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/123",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "24",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; January 24, 1938",
@@ -1071,7 +1314,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/124",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "25",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Martha Smith to Christine Smith; January 25, 1938",
@@ -1084,7 +1330,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/126",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "02",
+          "day": "14",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; February 14, 1938",
@@ -1097,7 +1346,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/128",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "07",
+          "day": "15",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Bernice Smith to Christine Smith; July 15, 1938.",
@@ -1110,7 +1362,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/129",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "07",
+          "day": "17",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Sam Smith to Christine Smith; July 17, 1938",
@@ -1123,7 +1378,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/130",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "07",
+          "day": "18",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; July 18, 1938",
@@ -1136,7 +1394,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/131",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "07",
+          "day": "22",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; July 22, 1938",
@@ -1149,7 +1410,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/132",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "07",
+          "day": "22",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Sam Ellard Smith to Christine Smith; July 22, 1938",
@@ -1162,7 +1426,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/134",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "08",
+          "day": "09",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; August 9, 1938",
@@ -1175,7 +1442,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/135",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "08",
+          "day": "12",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Christine Smith to Pauline Smith; August 12, 1938",
@@ -1188,7 +1458,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/136",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "08",
+          "day": "15",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Christine Smith to Pauline Smith; August 15, 1938",
@@ -1201,7 +1474,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/137",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "08",
+          "day": "27",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; July 29, 1938",
@@ -1214,7 +1490,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/138",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "09",
+          "day": "12",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 12, 1938",
@@ -1227,7 +1506,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/139",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "09",
+          "day": "15",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Martha Smith to Christine Smith; September 15, 1938",
@@ -1240,7 +1522,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/140",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "09",
+          "day": "19",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 19, 1938",
@@ -1253,7 +1538,10 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "10",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
@@ -1266,7 +1554,10 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "26",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Goldie to Christine Smith; January 26, 1938",
@@ -1279,7 +1570,10 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "02",
+          "day": "19",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
@@ -1292,7 +1586,10 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "10",
+          "day": "18",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
@@ -1305,7 +1602,10 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "11",
+          "day": "10",
+          "year": "1938"
         },
         "text": {
           "headline": "Letters from Pauline Smith to Christine Smith Novemeber 10, 1938",
@@ -1318,7 +1618,10 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "12",
+          "day": "05",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
@@ -1331,11 +1634,14 @@
           "link": null,
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "12",
+          "day": "12",
+          "year": "1938"
         },
         "text": {
           "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.  Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
         }
       },{
         "media": {
@@ -1344,7 +1650,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/148",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "10",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
@@ -1357,7 +1666,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/149",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "01",
+          "day": "26",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Goldie to Christine Smith; January 26, 1938",
@@ -1370,7 +1682,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/150",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "02",
+          "day": "19",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
@@ -1383,7 +1698,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/151",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "10",
+          "day": "18",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
@@ -1396,7 +1714,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/152",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "11",
+          "day": "10",
+          "year": "1938"
         },
         "text": {
           "headline": "Letters from Pauline Smith to Christine Smith November 10, 1938",
@@ -1409,7 +1730,10 @@
           "link": "https://athenacommons.muw.edu/smithpapers/153",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "12",
+          "day": "05",
+          "year": "1938"
         },
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
@@ -1422,11 +1746,14 @@
           "link": "https://athenacommons.muw.edu/smithpapers/154",
           "credit": "The Smith Papers Collection"
         },
-        "start_date": { "year": "1938"
+        "start_date": { 
+          "month": "12",
+          "day": "12",
+          "year": "1938"
         },
         "text": {
           "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.  Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
+          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
         }
       }
     ]

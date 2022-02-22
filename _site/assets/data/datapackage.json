@@ -11,7 +11,7 @@
             "role": "author"
         }
     ],
-    "image": "/objects/test.png",
+    "image": "/assets/img/test.png",
     "licenses": [
         {
             "name": "CC0-1.0",
