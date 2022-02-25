@@ -2,7 +2,7 @@
     "profile": "data-package",
     "name": "the-smith-papers-collection-data",
     "title": "The Smith Papers Collection Data",
-    "description": "Metadata and data derived from The Smith Papers Collection. The Smith Family Papers is...",
+    "description": "Metadata and data derived from The Smith Papers Collection. The Smith Family Papers includes letters and diaries among family members and friends, with most letters from members of the Smith Family--Pauline and Sam H, and their children, Bernice, Christine, Martha, and “Sonny Boy.” The geographic center of the collection is Pittsboro, Mississippi. *Language Note: We recognize that items in this collection use outdated and/or racist language. Unless otherwise noted, this is the language used by the record creator(s) and not imposed by the Beulah Culbertson Archives and Special Collections.*",
     
     "homepage": "http://localhost:4000/",
     "contributors": [
