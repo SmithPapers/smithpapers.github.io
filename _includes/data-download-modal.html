@@ -20,7 +20,13 @@
             <div class="modal-body">
 
                 <p>Download this collection's data in a variety of reusable formats.</p>
-                
+                <div class="card my-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Complete Transcripts</h5>
+                        <p class="card-text">All available full text transcripts, available as text files.</p>
+                        <a href="{{ '/objects/transcripts_full.zip' | relative_url }}" class="btn btn-outline-dark" target="_blank">Transcripts ZIP</a>
+                    </div>
+                </div>
                 {% if site.data.theme.metadata-export-fields %}
                 <div class="card my-3">
                     <div class="card-body">

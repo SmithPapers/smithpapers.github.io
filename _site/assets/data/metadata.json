@@ -1,9 +1,9 @@
 { "objects": [{ 
         "title": "Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929.",
-        
+        "contributor": "Derek Webb",
         "date": "1929-12-11",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Theodore Bilbo to Sam H. Smith; December 11, 1929.",
+        "keywords": "Church; Charities",
         
         
         
@@ -14,15 +14,17 @@
         
         
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1005&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/6",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930.",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1930-04-03",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from A.T. Patterson and Joe T. Patterson to Sam H. Smith; April 3, 1930.",
+        "keywords": "Terms of court; State-local tax relations",
+        "mentioned_locations": "Carroll County (Miss.); Grenada County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -32,15 +34,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1010&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/11",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith; March 31, 1931.",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1931-03-31",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Sam H. Smith; March 31, 1931",
+        "keywords": "Terms of court; State-local tax relations",
+        "mentioned_locations": "Calhoun County (MIss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -50,15 +54,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1011&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/12",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from J.R. Fewell to Sam H. Smith; April 25, 1931.",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1931-04-25",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from J.R. Fewell to Sam H. Smith; April 25, 1931.",
+        "keywords": "Report cards; Student records",
+        "mentioned_locations": "Calhoun County (MIss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -68,15 +74,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1012&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/13",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Thomas E. Pegram to Sam H. Smith; August 28th, 1931",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1931-08-28",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from President of Bank of Ripley To Sam Smith; August 28, 1931",
+        "keywords": "Correspondence; Civil service",
+        "mentioned_locations": "Calhoun County (MIss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -86,15 +94,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1013&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/14",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Bernice Smith; January 19, 1932",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1932-01-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Sam H. Smith to Bernice Smith; January 19, 1932",
+        "keywords": "Inauguration; Social life and customs--20th century",
+        "mentioned_locations": "Hinds County (MIss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -104,15 +114,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1014&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/15",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; January 21, 1932",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1932-01-21",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; January 21, 1932",
+        "keywords": "Correspondence; Social life and customs--20th century",
+        "mentioned_locations": "Hinds County (MIss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -122,15 +134,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1015&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/16",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; February 3, 1932",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1932-02-03",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; February 3, 1932",
+        "keywords": "Correspondence; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (MIss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -140,15 +154,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1016&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/17",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; February 20,1932",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1932-02-20",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith February 20, 1932",
+        "keywords": "Correspondence; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.); Grenada County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -158,15 +174,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1017&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/18",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; February 29, 1932",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1932-02-29",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; February 29, 1932",
+        "keywords": "Correspondence; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -176,15 +194,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1018&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/19",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; March 4, 1932",
-        
+        "contributor": "Whitney Baswell",
         "date": "1932-03-04",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter from Sam H. Smith to Pauline Smith; March 4, 1932",
+        "keywords": "Mississippi--Politics and government; Rabies in dogs",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -194,15 +214,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1019&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/20",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; March 22, 1932",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1932-03-22",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; State-local tax relations",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -212,15 +234,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1020&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/21",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; March 28, 1932",
-        
+        "contributor": "Whitney Baswell",
         "date": "1932-03-28",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Travel; Weather; Influenza",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -230,15 +254,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1021&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/22",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; April 13, 1932",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1932-04-13",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Prohibition--United States--History",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -248,15 +274,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1022&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/23",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; April 27, 1932",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1932-04-27",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Land-warrants; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -266,15 +294,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1023&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/24",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; May 2, 1932",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1932-05-02",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Children; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -284,15 +314,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1024&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/25",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; May 7, 1932",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1932-05-07",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -302,15 +334,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1025&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/26",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Clarion Ledger; May 7, 1932",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1932-05-07",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; copy of a faxed letter to the Clarion Ledger Newspaper May 7, 1932",
+        "keywords": "Correspondence; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.); Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -320,15 +354,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1026&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/27",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; May 12, 1932",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1932-05-12",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.); Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -338,15 +374,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1027&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/28",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; May 15, 1932",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1932-05-15",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Mississippi--Politics and government; State hospitals--Management",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -356,15 +394,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1028&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/29",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; January 30, 1934",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1934-01-30",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -374,15 +414,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1029&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/30",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; February 19, 1934",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1934-02-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Weather; Well-being",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -392,15 +434,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1030&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/31",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; February 23, 1934",
-        
+        "contributor": "Rebecca Fuller",
         "date": "1934-02-28",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Weather; Well-being",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -410,15 +454,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1031&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/32",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Bernard E. McMahon to Christine Smith; November 13, 1934",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1934-11-13",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Well-being; Circus",
+        "mentioned_locations": "St. Louis County (Mo.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -428,15 +474,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1032&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/33",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Bernard E. McMahon to Christine Smith; January 14, 1935",
-        
+        "contributor": "Elli Wilkinson",
         "date": "1935-01-14",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Correspondence; Family relationships",
+        "mentioned_locations": "St. Louis County (Mo.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -446,15 +494,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1033&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/34",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Theodore Bilbo; July 5, 1935",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1935-07-05",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection; Letter to Senator Bilbo, Theodore Gilmore, 1877-1947 from Sam H. Smith; July 5, 1935",
+        "keywords": "Local elections; Mississippi--Politics and government",
+        "mentioned_locations": "Calhoun County (Miss.); Washington, DC; Alecandria County",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -464,15 +514,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1034&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/35",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Theodore Bilbo to Sam H. Smith; July 13, 1935",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1935-07-13",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Local elections; Mississippi--Politics and government",
+        "mentioned_locations": "Calhoun County (Miss.); Washington, DC; Alecandria County",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -482,15 +534,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1035&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/36",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam E. Smith to Pauline Smith; November 2, 1935",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1935-11-02",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Crops; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -500,15 +554,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1036&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/37",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; 1935",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1935-01-01",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Home economics, Rural",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -518,15 +574,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1037&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/38",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from George R. Nobles to Hugh L. White; April 10, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-04-10",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Gasoline--Taxation; Endorsements",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -536,15 +594,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1038&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/39",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Garland Lyell to Hugh L. White; April 10, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-04-10",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Gasoline--Taxation; Endorsements",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -554,15 +614,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1039&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/40",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from John H. Culkin to Hugh L. White; April 11, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-04-11",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Gasoline--Taxation; Endorsements",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -572,15 +634,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1040&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/41",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from John H. Culkin to Howard Dyer; April 21, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-04-21",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Endorsements",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -590,15 +654,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1041&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/42",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Theodore G. Bilbo to Dennis Murphree; June 10, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-06-10",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Selection and appointment",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -608,15 +674,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1042&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/43",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Dennis Murphree to John L. Taylor; August 11, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-08-11",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Mississippi--Politics and government; Selection and appointment",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -626,15 +694,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1043&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/44",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith and Martha Smith; September 28, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-09-28",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Social life and customs--20th century; Mississippi--Politics and government",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -644,15 +714,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1044&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/45",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith and Martha Smith; October 5, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-10-05",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Music in churches; Personal health; Clothing and dress; Manners and customs",
+        "mentioned_locations": "Calhoun County (Miss.); Webster County (Miss.); Lafayette County (Miss.); Tennessee",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -662,15 +734,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1045&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/46",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; October 9, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-10-09",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Court proceedings; Cotton picking; Clothing and dress; Manners and customs",
+        "mentioned_locations": "Calhoun County (Miss.); Webster County (Miss.); Lafayette County (Miss.);",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -680,15 +754,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1046&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/47",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; October 12, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-10-12",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Church attendance; Employment; Clothing and dress; Student newspapers and periodicals",
+        "mentioned_locations": "Calhoun County (Miss.); Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -698,15 +774,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1047&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/48",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Martha Smith; October 19, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-10-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Church attendance; Breast--Cancer; Clothing and dress",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -716,15 +794,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1048&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/49",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; October 26, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-10-26",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Personal health; Clothing and dress; Roosevelt, Theodore, 1887-1944",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -734,15 +814,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1049&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/50",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Martha Smith; November 2, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-11-02",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Personal health; High school",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -752,15 +834,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1050&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/51",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Postcard from Sam Smith to Pauline Smith; November 14, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-11-14",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Postcards; Personal health",
+        "mentioned_locations": "Harrison County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -770,15 +854,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1051&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/52",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; November 19, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-11-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Methodist Church; Dressmaking; Manners and customs",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -788,15 +874,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1052&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/53",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Office of the Registrar at Mississippi State College for Women to Pauline Smith; November 20, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-11-20",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "College registrars; Report cards",
+        "mentioned_locations": "Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -806,15 +894,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1053&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/54",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; December 7, 1936",
-        
+        "contributor": "Whitney Baswell",
         "date": "1936-12-07",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection",
+        "keywords": "Medical care; Homicide; Church attendance; Manners and customs",
+        "mentioned_locations": "Chickasaw County (Miss.); Lafayette County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -824,15 +914,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1054&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/55",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Pauline Smith; January 19, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-01-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Sam tells Pauline how much he misses her and about his upcoming travels, and makes plans for Bernice to meet a relative in Tupelo.",
+        "keywords": "Railroad travel; Personal health; Road surfacings",
+        "mentioned_locations": "Hinds County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 16.",
@@ -842,15 +934,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1055&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/56",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine and Martha Smith; January 18, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-01-18",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Mrs. S. H. Smith to Misses Christine and Martha Smith; January 18, 1937",
+        "keywords": "Social life and customs--20th century; Travel",
+        "mentioned_locations": "Lee County (Miss.); Calhoun County (Miss.); Shelby County (Tenn.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -860,15 +954,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1057&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/58",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; January 22, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-01-22",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Mrs. S. H. Smith to Miss Christine Smith; January 22, 1937",
+        "keywords": "Home economics, Rural; Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.); Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -878,15 +974,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1058&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/59",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine and Martha Smith; January 25, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-01-25",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Mrs. S. H. Smith to Misses Christine and Martha Smith; January 25, 1937",
+        "keywords": "College teachers; death; burial insurance",
+        "mentioned_locations": "Lowndes County (Miss.); Calhoun County (Miss.); Pontotoc County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -896,15 +994,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1059&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/60",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Martha Smith; February 1, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-02-01",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Martha Smith; February 1, 1937",
+        "keywords": "Education; Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.); Leflore County (Miss.); Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -914,15 +1014,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1060&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/61",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Wade Horn to Christine Smith; February 8, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-02-08",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Wade to Christine Smith; February 8, 1937",
+        "keywords": "Dating (Social customs); Dance",
+        "mentioned_locations": "Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -932,15 +1034,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1061&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/62",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Martha Smith; February 8, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-02-08",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Martha Smith; February 8, 1937",
+        "keywords": "Travel; Agricultural education--Societies, etc; Cooking",
+        "mentioned_locations": "Calhoun County (Miss.); Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -950,15 +1054,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1062&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/63",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Envelope from Wade Horn to Christine Smith; February 17, 1937",
-        
+        "contributor": "Elaine Walker",
         "date": "1937-02-17",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Wade Horn to Christine Smith; February 17, 1937",
+        "keywords": "Dating (Social customs); Dance; Well-being",
+        "mentioned_locations": "Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -968,15 +1074,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1063&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/64",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; March 6, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-03-06",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; March 6, 1937",
+        "keywords": "Home economics, Rural; Birthdays",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -986,15 +1094,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1064&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/65",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-03-22",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine and Martha Smith; March 22, 1937",
+        "keywords": "Home economics, Rural; Gossip--Social aspects; Correspondence",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1004,15 +1114,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1065&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/66",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; March 24, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-03-24",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; March 24, 1937",
+        "keywords": "Travel",
+        "mentioned_locations": "Stewart, Florida",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1022,15 +1134,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1066&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/67",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Christine Smith; August 19, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-08-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Martha Smith to Christine Smith; August 19, 1937",
+        "keywords": "Visiting teachers",
+        "mentioned_locations": "Kemper County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1040,15 +1154,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1068&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/69",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam H. Smith to Christine Smith; August 20, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-08-20",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Sam tells Christine he had planned to visit, and will send her money.",
+        "keywords": "Correspondence; Travel",
+        "mentioned_locations": "Pearl River County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 24.",
@@ -1058,14 +1174,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1069&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/70",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; August 23, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-08-23",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; August 23, 1937",
+        "keywords": "Home economics, Rural",
         
         
         
@@ -1076,15 +1194,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1070&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/71",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Bernice Smith to Christine Smith; August 24, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-08-24",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Bernice Smith to Christine Smith; August 24, 1937",
+        "keywords": "Teaching",
+        "mentioned_locations": "Kemper County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1094,15 +1214,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1071&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/72",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; August 30,1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-08-30",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; August 30,1937",
+        "keywords": "Education",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1112,15 +1234,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1072&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/73",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; September 06, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-09-06",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 06, 1937",
+        "keywords": "Education",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1130,15 +1254,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1073&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/74",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Christine Smith; September 13, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-09-13",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Christine Smith; September 13, 1937",
+        "keywords": "Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1148,15 +1274,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1074&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/75",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; September 13, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-09-13",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 13, 1937",
+        "keywords": "Second-wave feminism",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1166,15 +1294,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1075&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/76",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; September 21, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-09-21",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 21, 1937",
+        "keywords": "Great Depression, 1931",
+        "mentioned_locations": "Webster County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1184,15 +1314,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1076&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/77",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Christine Smith; September 25, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-09-25",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Christine Smith; September 25, 1937",
+        "keywords": "Travel",
+        "mentioned_locations": "Calhoun County (Miss.); Kemper County (Miss.); New York City",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1202,15 +1334,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1077&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/78",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; September 27, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-09-27",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; September 27, 1937",
+        "keywords": "electricity; Renovation (Architecture)",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1220,15 +1354,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1078&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/79",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; October 11, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-10-11",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; October 11, 1937",
+        "keywords": "Education; Social life and customs--20th century; Travel",
+        "mentioned_locations": "Calhoun County (Miss.); Lee County (Miss.); Memphis (Tenn.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1238,14 +1374,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1079&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/80",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; October 18, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-10-18",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; October 18, 1937",
+        "keywords": "Social life and customs--20th century",
         
         
         
@@ -1256,15 +1394,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1080&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/81",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Wade Horn to Christine Smith; November 2,1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-11-02",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Wade Horn to Christine Smith; November 2, 1937",
+        "keywords": "Love-letters",
+        "mentioned_locations": "Lowndes County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1274,15 +1414,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1081&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/82",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; November 11, 1937",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1937-11-11",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; November 11, 1937",
+        "keywords": "Home economics, Rural; Halloween; well-being; electricity; Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1292,15 +1434,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1082&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/83",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; November 13, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-11-13",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; November 13, 1937",
+        "keywords": "Family relationships; Tennessee Valley Authority; well-being; Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Beulah Culbertson Archives and Special Collections, Mississippi University for Women. Box c611, Folder 25.",
@@ -1310,14 +1454,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1083&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/84",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Wade Horn to Christine Smith; November 17, 1937",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1937-11-17",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Wade Horn to Christine Smith; November 17, 1937",
+        "keywords": "Well-being; Love-letters",
         
         
         
@@ -1328,15 +1474,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1084&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/85",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Christine Smith; October 10, 1938",
-        
+        "contributor": "Lashawn Davidson; Hong Gao",
         "date": "1938-10-10",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christine updates about different family members.",
+        "keywords": "Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1346,15 +1494,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1111&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/112",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Bernice Smith to Christine Smith; October 11, 1938",
-        
+        "contributor": "Elaine Walker",
         "date": "1938-10-11",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Bernice Smith to Christine Smith; October 11, 1938.",
+        "keywords": "Dating (Social customs)",
+        "mentioned_locations": "Shelby County (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1364,15 +1514,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1112&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/113",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; November 01, 1938",
-        
+        "contributor": "Lashawn Davidson; Hong Gao",
         "date": "1938-11-01",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline to Christine , and Pauline also forward Martha's letter to Christine",
+        "keywords": "Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Pickwick Dam (Tenn.)",
         
         
         "source": "Box C611, folder 28",
@@ -1382,15 +1534,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1114&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/115",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Pauline Smith; 1938",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1905-04-21",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Pauline Smith recounting her school work at MSCW; 1938",
+        "keywords": "Well-being; education; Social life and customs--20th century; dating; Ibsen, Henrik, 1828-1906",
+        "mentioned_locations": "Lowndes County (Miss.)",
         
         
         "source": "Box C611, folder 27",
@@ -1400,15 +1554,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1118&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/119",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; January 17, 1938",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1938-01-17",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; January 17, 1938",
+        "keywords": "Well-being; Social life and customs--20th century",
+        "mentioned_locations": "Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 26",
@@ -1418,15 +1574,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1020&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/121",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; January 19, 1938",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1938-01-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; January 19, 1938",
+        "keywords": "Well-being; Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Box C611, folder 26",
@@ -1436,15 +1594,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1021&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/122",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; January 24, 1938",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1938-01-24",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; January 24, 1938",
+        "keywords": "Social life and customs--20th century; Church attendance; Well-being;",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Box C611, folder 26",
@@ -1454,15 +1614,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1022&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/123",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Christine Smith; January 25, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-01-25",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Martha Smith to Christine Smith; January 25, 1938.",
+        "keywords": "Social life and customs--20th century; Dating (Social customs)",
+        "mentioned_locations": "Lowndes County (Miss.)",
         
         
         "source": "Box C611, folder 26",
@@ -1472,14 +1634,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1023&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/124",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; February 14, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-02-14",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; February 14, 1938",
+        "keywords": "Business education; Social life and customs--20th century",
         
         
         
@@ -1490,14 +1654,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1025&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/126",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Bernice Smith to Christine Smith; July 15, 1938.",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-07-15",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Bernice Smith to Christine Smith; July 15, 1938.",
+        "keywords": "Social life and customs--20th century",
         
         
         
@@ -1508,14 +1674,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1027&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/128",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam Smith to Christine Smith; July 17, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-07-17",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Sam Smith to Christine Smith; July 17, 1938.",
+        "keywords": "Social life and customs--20th century",
         
         
         
@@ -1526,15 +1694,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1028&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/129",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; July 18, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-07-18",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; July 18, 1938.",
+        "keywords": "Social life and customs--20th century",
+        "mentioned_locations": "Nashville (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1544,15 +1714,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1029&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/130",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; July 22, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-07-22",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; July 22, 1938.",
+        "keywords": "Housekeeping; Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.)",
         
         
         "source": "Box C611, folder 27",
@@ -1562,14 +1734,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1030&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/131",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Sam Ellard Smith to Christine Smith; July 22, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-07-22",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Sonny Boy to Christine Smith; July 22, 1938.",
+        "keywords": "Farming",
         
         
         
@@ -1580,15 +1754,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1031&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/132",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; August 9, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-08-09",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Pauline Smith to Christine Smith; August 9, 1938.",
+        "keywords": "Well-being; travel",
+        "mentioned_locations": "Amite County (Miss.); Alcorn County (Miss.)",
         
         
         "source": "Box C611, folder 27",
@@ -1598,15 +1774,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1033&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/134",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Christine Smith to Pauline Smith; August 12, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-08-12",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection.Letter from Christine Smith to Pauline Smith; August 12, 1938.",
+        "keywords": "Travel; Weather; Money",
+        "mentioned_locations": "Calhoun County (Miss.); Union City (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1616,15 +1794,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1034&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/135",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Christine Smith to Pauline Smith; August 15, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-08-15",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers CollectionLetter from Christine Smith to Pauline Smith; August 15, 1938.",
+        "keywords": "Loneliness; Social life and customs--20th century",
+        "mentioned_locations": "Dyersburg (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1634,15 +1814,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1035&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/136",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; July 29, 1938",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1938-08-27",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; July 29, 1938",
+        "keywords": "Weather; Well-being; Methodist Church; Social life and customs--20th century",
+        "mentioned_locations": "Pickwick Dam (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1652,15 +1834,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1036&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/137",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; September 12, 1938",
-        
+        "contributor": "Lashawn Davidson; Hillary A. H. Richardson",
         "date": "1938-09-12",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christine updates about different family members.",
+        "keywords": "Social life and customs--20th century; Travel; Church attendance; Well-being",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Louisiana",
         
         
         "source": "Box C611, folder 27",
@@ -1670,15 +1854,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1037&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/138",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Martha Smith to Christine Smith; September 15, 1938",
-        
+        "contributor": "Lashawn Davidson; Hong Gao",
         "date": "1938-09-15",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Envelope from Martha Smith to Christine Smith.",
+        "keywords": "Social life and customs--20th century",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 28",
@@ -1688,15 +1874,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1038&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/139",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; September 19, 1938",
-        
+        "contributor": "Lashawn Davidson; Emerald Potter",
         "date": "1938-09-19",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christina what she has been up to and continues to update her on family and close friends.",
+        "keywords": "Social life and customs--20th century; church; weather",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1706,15 +1894,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1039&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/140",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
-        
+        "contributor": "Hillary A. H. Richardson",
         "date": "1938-01-10",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Envelope from Pauline Smith to Christine Smith; January 10, 1938",
+        "keywords": "Well-being; Social life and customs--20th century",
+        "mentioned_locations": "Lowndes County (Miss.); Calhoun County (Miss.)",
         
         
         "source": "Box C611, folder 26",
@@ -1724,15 +1914,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1147&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/148",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Goldie to Christine Smith; January 26, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-01-26",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Goldie to Christine Smith; January 26, 1938.",
+        "keywords": "Social life and customs--20th century; birth; poems; education",
+        "mentioned_locations": "Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1742,14 +1934,16 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1148&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/149",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
-        
+        "contributor": "Nathaniel Norris-Jones",
         "date": "1938-02-19",
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; February 19, 1938.",
+        "keywords": "Social life and customs--20th century",
         
         
         
@@ -1760,15 +1954,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1149&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/150",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
-        
+        "contributor": "Lashawn Davidson; Emerald Potter",
         "date": "1938-10-18",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Mother (Pauline) inquires how Christine is doing and gives updates on Martha specifcally. She also talks about job opportunites for Christine.",
+        "keywords": "Social life and customs--20th century; Well-being",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1778,15 +1974,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1150&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/151",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letters from Pauline Smith to Christine Smith November 10, 1938",
-        
+        "contributor": "Lashawn Davidson; Emerald Potter",
         "date": "1938-11-10",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline expresses her excitement for Christine's new opportunities. She also continues to update on friends and familly matters regarding Dad's health and about Martha.",
+        "keywords": "Social life and customs--20th century; Family relationships; Well-being",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Memphis (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1796,15 +1994,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1151&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/152",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
-        
+        "contributor": "Lashawn Davidson; Hong Gao",
         "date": "1938-12-05",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; December 5, 1938",
+        "keywords": "Social life and customs--20th century; Travel; Church attendance; Well-being",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.); Pickwick Dam (Tenn.)",
         
         
         "source": "Box C611, folder 27",
@@ -1814,15 +2014,17 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1152&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/153",
         "reference_url": "http://localhost:4000/item.html?id="
     },
     { 
         "title": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-        
+        "contributor": "Lashawn Davidson; Emerald Potter",
         "date": "1938-12-12",
-        
-        
-        
+        "abstract": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha.",
+        "keywords": "Social life and customs--20th century; Well-being; Family relationships",
+        "mentioned_locations": "Calhoun County (Miss.); Pike County (Miss.)",
         
         
         "source": "Box C611, folder 27",
@@ -1832,6 +2034,8 @@
         
         "rights": "All unpublished materials are protected by copyright held by Mississippi University for Women. Permission to publish or reproduce must be requested in writing to the University Archivist. Published materials may also be protected by copyright, and the user must locate and request permission from copyright holder to publish or reproduce.",
         
+        "transcript": "https://athenacommons.muw.edu/cgi/viewcontent.cgi?filename=0&article=1153&context=smithpapers&type=additional",
+        "calc_url": "https://athenacommons.muw.edu/smithpapers/154",
         "reference_url": "http://localhost:4000/item.html?id="
     }
     
