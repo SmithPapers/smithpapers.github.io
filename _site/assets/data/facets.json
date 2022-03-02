@@ -13,7 +13,7 @@
         {
             "field": "format",
             "terms": { 
-                "image": 109
+                "image": 102
             }
         }
         

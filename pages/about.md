@@ -33,8 +33,3 @@ The majority of the contents of the Ellard-Murphree-Pilgreen-Smith Collection (r
 **Martha Josephine Smith Womble (1917-2005)** - graduated from MSCW in 1938 with a degree in Home Economics and worked as a teacher in McComb, then a nutritionist in Memphis and Baton Rouge. She married James Womble in 1950 and made a home with him and her daughter Rachel in Clearwater, FL.
 
 **Sam Ellard Smith, or “Sonny Boy” (1924-2007)** - enlisted in the army during World War II, and served in the liberation of France after D Day, and in the Battle of the Bulge (1944) and the invasion of Germany (1945). Following military service, he graduated from Mississippi A&M College in 1950 with a degree in Engineering and married Nadine Capwell of Pittsboro in 1956. He and Nadine had three children: Bridget, Sam, Jr., and Susan. They lived in Louisville, MS where he worked as a consulting engineer, designing small community water systems and surveying land.
-
-
-## Do we want to include the Tech credits here? We can turn it off...
-
-## Do we need more info here?
