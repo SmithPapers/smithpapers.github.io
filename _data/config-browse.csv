@@ -1,9 +1,9 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date Created
 description,,,,
-contributor,Creator,,,
 keywords,,true
 mentioned_locations,,true
 calc_url,,,true
 thumb_url,,,true
+transcript,,,true
 identifier,,,true,Identifier

@@ -7,7 +7,7 @@
         },
         "text": {
           "headline": "The Smith Papers Collection Timeline",
-          "text": "The Smith Family Papers includes letters and diaries among family members and friends, with most letters from members of the Smith Family--Pauline and Sam H, and their children, Bernice, Christine, Martha, and “Sonny Boy.” The geographic center of the collection is Pittsboro, Mississippi. *Language Note: We recognize that items in this collection use outdated and/or racist language. Unless otherwise noted, this is the language used by the record creator(s) and not imposed by the Beulah Culbertson Archives and Special Collections.*"
+          "text": "The Smith Family Papers includes letters and diaries among family members and friends, with most letters from members of the Smith Family--Pauline and Sam H, and their children, Bernice, Christine, Martha, and “Sonny Boy.” The geographic center of the collection is Pittsboro, Mississippi. <br><br> <b>Language Note:</b> We recognize that items in this collection use outdated and/or racist language. Unless otherwise noted, this is the language used by the record creator(s) and not imposed by the Beulah Culbertson Archives and Special Collections."
         }
     },
     "events": [
@@ -1517,7 +1517,7 @@
         }
       },{
         "media": {
-          "url": "https://athenacommons.muw.edu/smithpapers/1139/thumbnail.jpg",
+          "url": "https://athenacommons.muw.edu/smithpapers/1039/thumbnail.jpg",
           "caption": "Letter from Pauline Smith to Christine Smith; September 19, 1938",
           "link": "https://athenacommons.muw.edu/smithpapers/140",
           "credit": "The Smith Papers Collection"
@@ -1530,118 +1530,6 @@
         "text": {
           "headline": "Letter from Pauline Smith to Christine Smith; September 19, 1938",
           "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline tells Christina what she has been up to and continues to update her on family and close friends."
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "01",
-          "day": "10",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; January 10, 1938",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Envelope from Pauline Smith to Christine Smith; January 10, 1938"
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letter from Goldie to Christine Smith; January 26, 1938",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "01",
-          "day": "26",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letter from Goldie to Christine Smith; January 26, 1938",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Goldie to Christine Smith; January 26, 1938."
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "02",
-          "day": "19",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; February 19, 1938",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; February 19, 1938."
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "10",
-          "day": "18",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; October 18, 1938",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Mother (Pauline) inquires how Christine is doing and gives updates on Martha specifcally. She also talks about job opportunites for Christine."
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letters from Pauline Smith to Christine Smith Novemeber 10, 1938",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "11",
-          "day": "10",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letters from Pauline Smith to Christine Smith Novemeber 10, 1938",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline expresses her excitement for Christine's new opportunities. She also continues to update on friends and familly matters regarding Dad's health and about Martha."
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "12",
-          "day": "05",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letter from Pauline Smith to Christine Smith; December 5, 1938",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Letter from Pauline Smith to Christine Smith; December 5, 1938"
-        }
-      },{
-        "media": {
-          "url": "",
-          "caption": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-          "link": null,
-          "credit": "The Smith Papers Collection"
-        },
-        "start_date": { 
-          "month": "12",
-          "day": "12",
-          "year": "1938"
-        },
-        "text": {
-          "headline": "Letters from Pauline Smith to Christine Smith December 12, 1938.",
-          "text": "From the Ellard-Murphree-Pilgreen-Smith Family Papers Collection. Pauline writes about Christine's and other's health. She also discusses other social and family matters and includes a letter from Martha."
         }
       },{
         "media": {

@@ -2,17 +2,17 @@
     "title": "The Smith Papers Collection",
     "url": "http://localhost:4000/",
     "image": "/assets/img/test.png", 
-    "description": "The Smith Family Papers includes letters and diaries among family members and friends, with most letters from members of the Smith Family--Pauline and Sam H, and their children, Bernice, Christine, Martha, and “Sonny Boy.” The geographic center of the collection is Pittsboro, Mississippi. *Language Note: We recognize that items in this collection use outdated and/or racist language. Unless otherwise noted, this is the language used by the record creator(s) and not imposed by the Beulah Culbertson Archives and Special Collections.*",
+    "description": "The Smith Family Papers includes letters and diaries among family members and friends, with most letters from members of the Smith Family--Pauline and Sam H, and their children, Bernice, Christine, Martha, and “Sonny Boy.” The geographic center of the collection is Pittsboro, Mississippi. <br><br> <b>Language Note:</b> We recognize that items in this collection use outdated and/or racist language. Unless otherwise noted, this is the language used by the record creator(s) and not imposed by the Beulah Culbertson Archives and Special Collections.",
     "publisher": { 
         "name": "MUW Digital Studies"
     },
     "date_start": "1905",
     "date_end": "1938",
     "objects": {
-        "image": "109"
+        "image": "102"
         
     },
     "data": "http://localhost:4000/assets/data/datapackage.json",
-    "last_build_date": "2022-02-23"
+    "last_build_date": "2022-03-02"
 }
 
